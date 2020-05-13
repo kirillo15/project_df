@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+.heading {
+    text-align: center;
+}
+.header {
+    border: 1px solid #000;
+    margin: 40px 0;
+}
+
+.banner {
+    background: url("../img/banner.jpg") ;
+    height: 740px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
